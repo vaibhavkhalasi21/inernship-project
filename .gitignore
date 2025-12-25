@@ -1,0 +1,8 @@
+.gradle/
+build/
+.dart_tool/
+.connected
+.packages
+.pub-cache/
+.pub/
+local.properties
